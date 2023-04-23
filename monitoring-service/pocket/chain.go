@@ -259,6 +259,12 @@ var allChains = map[string]Chain{
 		PortalPrefix: "optimism-mainnet",
 		IsMonetized:  true,
 	},
+	"0066": {
+		ID:	      "0066",
+		Name:	      "Arbitrum One",
+		PortalPrefix: "arbitrum-one",
+		IsMonetized: true,
+	},	
 	"0047": {
 		ID:           "0047",
 		Name:         "OKExChain",
